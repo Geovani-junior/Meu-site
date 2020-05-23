@@ -1,0 +1,30 @@
+.Título {
+        font-size: 50px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif ;
+        text-align: center;
+        background-color: mediumpurple;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        color: azure;
+}
+
+.textopadrao {width: 75%;
+             text-align: justify;
+             font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+             font-size: larger;
+             padding-left: 10px;
+             padding-top: 20px;
+             color: azure;}
+
+.corsite {background-color: rgba(0, 0, 0, 0.830);}
+
+.subtitulo {color: azure;}
+
+.textosobre {width: 75%;
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    font-size: 22px;
+    padding-left: 10px;
+    padding-top: 20px;
+    color: rgba(0, 0, 0, 0.829);}
